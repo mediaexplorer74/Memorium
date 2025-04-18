@@ -1,6 +1,6 @@
 # Memorium
 
-![](Images/logo.jpg)
+![](/Images/logo.jpg)
 
 
 "In memory of UWP and old sweet W10M years..." :)
@@ -9,7 +9,7 @@
 "Memorium - UWP application, representing simple daily task list."
 
 ## Screenshot 
-![](Images/sshot01.jpg)
+![](/Images/sshot01.jpg)
 
 ## Features
 - Micro-DB support
